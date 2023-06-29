@@ -6,7 +6,7 @@
 # Takes an input single ob .yaml, converts to netCDF, and upgrades to v3.
 
 
-
+# Setup environment
 module use /work/noaa/da/kswan/gdasapp/modulefiles/
 module load GDAS/orion
 
